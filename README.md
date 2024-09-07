@@ -11,17 +11,5 @@ Another significant issue in any data project is handling missing data. Ignoring
 The project was successful, resulting in clean, reliable data ready for downstream use in various business analyses and modeling tasks. This effort highlighted the importance of careful data cleaning and preparation in any data-driven decision-making process.
 
 
-# Hi, I'm Paul! 👋
-
-
-## 🚀 About Me
-I'm a Data Engineer
-
-
-## Authors
-
-- [@Paul Nguyen](https://github.com/ngphduy1108)
-
-    
 
 
